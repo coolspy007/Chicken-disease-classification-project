@@ -12,7 +12,7 @@ SRC_REPO = "cnnClassifier"
 AUTHOR_EMAIL = "krishnakumar.balu@gmail.com"
 
 setuptools.setup(
-    name=REPO_NAME,
+    name=SRC_REPO,
     version=__version__,
     author=AUTHOR_USER_NAME,
     author_email=AUTHOR_EMAIL,
